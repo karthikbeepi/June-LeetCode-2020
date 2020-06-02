@@ -1,0 +1,13 @@
+C:\Users\karth\Documents\GitHub\June-LeetCode-2020\C#\bin\Debug\netcoreapp3.1\C#.exe
+C:\Users\karth\Documents\GitHub\June-LeetCode-2020\C#\bin\Debug\netcoreapp3.1\C#.deps.json
+C:\Users\karth\Documents\GitHub\June-LeetCode-2020\C#\bin\Debug\netcoreapp3.1\C#.runtimeconfig.json
+C:\Users\karth\Documents\GitHub\June-LeetCode-2020\C#\bin\Debug\netcoreapp3.1\C#.runtimeconfig.dev.json
+C:\Users\karth\Documents\GitHub\June-LeetCode-2020\C#\bin\Debug\netcoreapp3.1\C#.dll
+C:\Users\karth\Documents\GitHub\June-LeetCode-2020\C#\bin\Debug\netcoreapp3.1\C#.pdb
+C:\Users\karth\Documents\GitHub\June-LeetCode-2020\C#\obj\Debug\netcoreapp3.1\C#.csprojAssemblyReference.cache
+C:\Users\karth\Documents\GitHub\June-LeetCode-2020\C#\obj\Debug\netcoreapp3.1\C#.AssemblyInfoInputs.cache
+C:\Users\karth\Documents\GitHub\June-LeetCode-2020\C#\obj\Debug\netcoreapp3.1\C#.AssemblyInfo.cs
+C:\Users\karth\Documents\GitHub\June-LeetCode-2020\C#\obj\Debug\netcoreapp3.1\C#.csproj.CoreCompileInputs.cache
+C:\Users\karth\Documents\GitHub\June-LeetCode-2020\C#\obj\Debug\netcoreapp3.1\C#.dll
+C:\Users\karth\Documents\GitHub\June-LeetCode-2020\C#\obj\Debug\netcoreapp3.1\C#.pdb
+C:\Users\karth\Documents\GitHub\June-LeetCode-2020\C#\obj\Debug\netcoreapp3.1\C#.genruntimeconfig.cache
