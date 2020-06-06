@@ -66,15 +66,15 @@ public class TwoCitySchedProblem {
         return sum;
     }
 
-    public static void Main() {
-        TwoCitySchedProblem ob = new TwoCitySchedProblem();
-        int[][] cost = new int[][] {
-            new int [] {259, 770}, 
-            new int [] {448, 54}, 
-            new int [] {926, 667}, 
-            new int [] {840, 118},
-            new int [] {184, 139},
-            new int [] {577, 469}};
-        Console.WriteLine(ob.TwoCitySchedCost(cost));
-    }
+    // public static void Main() {
+    //     TwoCitySchedProblem ob = new TwoCitySchedProblem();
+    //     int[][] cost = new int[][] {
+    //         new int [] {259, 770}, 
+    //         new int [] {448, 54}, 
+    //         new int [] {926, 667}, 
+    //         new int [] {840, 118},
+    //         new int [] {184, 139},
+    //         new int [] {577, 469}};
+    //     Console.WriteLine(ob.TwoCitySchedCost(cost));
+    // }
 }
