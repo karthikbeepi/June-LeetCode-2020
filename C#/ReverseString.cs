@@ -12,6 +12,5 @@ class RevString {
             start++;
             end--;
         }
-
     }
 }
