@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\karth\\Documents\\GitHub\\June-LeetCode-2020\\C#\\C#.csproj",
-      "projectName": "C#",
-      "projectPath": "c:\\Users\\karth\\Documents\\GitHub\\June-LeetCode-2020\\C#\\C#.csproj",
+      "projectUniqueName": "C:\\Users\\karth\\Documents\\GitHub\\June-LeetCode-2020\\C#\\WeeklyContest193\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Users\\karth\\Documents\\GitHub\\June-LeetCode-2020\\C#\\WeeklyContest193\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\karth\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\karth\\Documents\\GitHub\\June-LeetCode-2020\\C#\\obj\\",
+      "outputPath": "C:\\Users\\karth\\Documents\\GitHub\\June-LeetCode-2020\\C#\\WeeklyContest193\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karth\\AppData\\Roaming\\NuGet\\NuGet.Config",
